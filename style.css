@@ -1,0 +1,29 @@
+body {
+    background-image: url(Untitled_drawing.jpg);
+}
+
+.heading {
+    background-color: rgb(134, 241, 255);
+    padding: 7.5px 10px;
+    font-family: cursive;
+    color: rgb(105, 105, 105);
+    border-radius: 15px;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    font-family:'Trebuchet MS', sans-serif;
+    background-color: papayawhip;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+canvas {
+    border: 3px groove rosybrown;
+    box-shadow: 5px 10px rgb(189, 189, 189);
+    padding: 15px 25px;
+    margin: 15px 15px;
+}
